@@ -1,0 +1,1 @@
+Data science and machine learning have gained popularity. Python provides powerful libraries such as NumPy, Pandas, and scikit-learn for data manipulation and machine learning.

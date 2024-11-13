@@ -1,0 +1,1 @@
+Flask is widely used to create REST APIs. It integrates well with machine learning models and databases, making it popular among developers.

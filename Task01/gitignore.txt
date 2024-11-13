@@ -1,0 +1,17 @@
+# Python virtual environment
+backend/venv/
+
+# Node modules for React
+frontend/node_modules/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE or editor-specific files (add more as needed)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
