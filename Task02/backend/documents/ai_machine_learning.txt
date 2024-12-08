@@ -1,0 +1,1 @@
+Artificial intelligence and machine learning are revolutionizing various industries. Python is often chosen for developing machine learning models due to its simplicity.

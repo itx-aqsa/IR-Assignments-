@@ -1,0 +1,1 @@
+Python is a versatile programming language widely used for web development, data analysis, and more. Flask is a lightweight framework that makes it easy to create web applications.
